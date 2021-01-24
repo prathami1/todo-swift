@@ -8,6 +8,7 @@ Here are some screenshots of the application in action, highlighting some of its
 :-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:
 ![scene1](img/todo-1.png)  | ![scene2](img/todo-2.png) | ![scene3](img/todo-3.png) | ![scene2](img/todo-4.png)
 
+Notice the application on the third screenshot, where each HStack title and sublist is collapsable. That way, once one is finished entering all their tasks (or finished with their tasks for that matter), they can easily collapse whichever submenu they are finished with, so they can focus on the other portion of the app. It also gives the app a cleaner aesthetic. 
 
 
 # Dependencies Utilized
